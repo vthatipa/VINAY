@@ -4,3 +4,6 @@ Good one :https://github.com/MovingBlocks/GroovyJenkins/blob/master/src/main/gro
 
 
 Rolebased stratgy : https://stackoverflow.com/questions/39023844/jenkins-rolebasedauthorizationstrategy-add-user-to-role-groovy-script
+
+https://docs.cloudbees.com/docs/admin-resources/latest/plugins/rbac#chapter-rbac_rbac 
+//see this ra groups and roles option we are able to see but is it only supported in cloudbees ah mana dantlo cheyocha//
